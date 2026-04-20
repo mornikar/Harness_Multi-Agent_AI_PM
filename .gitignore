@@ -1,0 +1,16 @@
+# WorkBuddy 工作区
+.workbuddy/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 临时文件
+*.tmp
+*.log
