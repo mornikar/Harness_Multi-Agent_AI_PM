@@ -194,9 +194,9 @@ pm-orchestrator:
 ### 1. 安装到 WorkBuddy
 
 ```powershell
-# 复制到 WorkBuddy Skills 目录
+# 复制到 Skills 目录
 Copy-Item -Path "D:\Auxiliary_means\All_AI_Skills\AI_PM_SKills\*" `
-  -Destination "$env:USERPROFILE\.workbuddy\skills\" -Recurse -Force
+  -Destination "$env:USERPROFILE\,openclaw\skills\" -Recurse -Force
 ```
 
 ### 2. 项目初始化
