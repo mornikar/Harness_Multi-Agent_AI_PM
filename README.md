@@ -2,7 +2,7 @@
 
 # AI-PM Multi-Agent Skill System
 
-**v3.1 Ironforge** — 业界首创 Skill+Harness 双轨架构 · 多Agent协作开发框架
+**v3.1 Ironforge** — 业内自创 Skill+Harness 双轨架构 · 多Agent协作开发框架
 
 **知识包（Skill）与执行载体（Harness）彻底解耦** — 行为规范平台无关，运行配置按需适配
 
